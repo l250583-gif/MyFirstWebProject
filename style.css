@@ -1,0 +1,29 @@
+body{
+   background-color:rgba(0, 0, 0, 0.712);
+   font-family : 'Trebuchet MS', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   margin :0;
+   padding:0;
+}
+   #container{align-items:center;
+    justify-content: ;
+    font-family: 'Times New Roman', Times, serif;
+    width:90%;
+    margin:10px auto;
+    border:3px rgb(250, 243, 205);
+    background-color:rgba(245, 238, 148, 0.712);
+}
+#header {
+align-items:center;
+    background-color:rgba(235, 222, 164, 0.712);
+   
+    width:90%;
+}
+#info{align-items:center;
+    background-color:rgba(253, 255, 155, 0.877);
+   
+    width:90%;
+
+
+
+}
+
